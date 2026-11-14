@@ -1,4 +1,4 @@
-# Materials Characterization & EIS Analysis Toolkit
+# Materials Characterization & Analysis 
 
 This repository showcases the scientific programming, data analysis pipelines, and visualization tools developed during my tenure as a Project Trainee in the Materials Science Division at Bhabha Atomic Research Centre (BARC).
 
